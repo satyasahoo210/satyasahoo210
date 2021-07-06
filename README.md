@@ -11,6 +11,10 @@
 - 🥅 2021 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love to listen to songs all the time
 
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-satya.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/313c7xg2y646yktixga4dl4fpre4)
+
 
 ### Connect with me:
 
