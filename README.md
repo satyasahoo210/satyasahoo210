@@ -1,23 +1,15 @@
 ### Hi there, I'm Satya - aka **r3al.retr0_** 👋
 
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/Satyasahoo771?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsatyasahoo210&screen_name=Satyasahoo771)
-
 ## I'm a Developer!!
 
-- 🔭 I'm currently working on Spring Boot, React, RASA
-- 🌱 I’m currently learning NextJS, FeathersJS and everything 🤣
-- 🌱 I'm currently looking forward to learn Cyber Security
-- 🥅 2021 Goals: Contribute to Open Source projects
+- 🧑‍💻 I'm currently working at Oracle
+- 🌱 GenAI 🧠 Agents 🕵️‍♂️
+- 🔭 Trying to make solutions using AI
+- 🥅 2025 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love to listen to songs all the time
-
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-satya.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/313c7xg2y646yktixga4dl4fpre4)
 
 
 ### Connect with me:
-
 
 [<img align="left" alt="Satya | Twitter" width="22px" style="margin-right:5px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Satya | LinkedIn" width="22px" style="margin-right:5px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
