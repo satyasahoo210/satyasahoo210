@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Satya | Twitter" width="22px" style="margin-right:5px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Satya | X" width="22px" style="margin-right:5px; color: #ffffff; background-color: #000000;" src="https://simpleicons.org/icons/x.svg" />][x]
 [<img align="left" alt="Satya | LinkedIn" width="22px" style="margin-right:5px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Satya | Instagram" width="22px" style="margin-right:5px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -34,6 +34,6 @@
 <br />
 <br />
 
-[twitter]: https://twitter.com/Satyasahoo771
+[x]: https://x.com/Satyasahoo771
 [instagram]: https://instagram.com/r3al.retr0_
 [linkedin]: https://linkedin.com/in/satyasahoo210
